@@ -1,0 +1,155 @@
+.spanStyle {
+    color: rgb(46, 197, 46);
+}
+
+.headingStyle {
+    font-family: Roboto Slab;
+    font-size: 25px;
+    border-left: 4px solid rgb(5, 5, 205);
+}
+
+.paragramStyle {
+    text-align: justify;
+}
+
+.imgStyle {
+    margin-right: 100px;
+}
+
+.imgStyle img {
+    width: 400px;
+}
+
+.linkStyle {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(0, 179, 255), rgb(58, 175, 97));
+    border-radius: 7px;
+    position: relative;
+    top: 20px;
+    color: white;
+
+}
+
+.scrollStyle {
+    position: relative;
+    top: 80px;
+}
+
+.section1 {
+    display: flex;
+    margin: 20px;
+}
+
+.myMission {
+    text-align: center;
+    font-size: 40px;
+}
+
+.boxillustrator0 {
+
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 10px 10px 25px gray;
+    background-color: rgb(153, 195, 195);
+}
+
+.boxillustrator1 {
+
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 10px 10px 25px gray;
+    background-color: rgb(140, 237, 159);
+}
+
+.boxillustrator2 {
+
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 10px 10px 25px gray;
+    background-color: rgb(155, 135, 227);
+}
+
+.boxillustrator0 img {
+    width: 100px;
+}
+
+.boxillustrator1 img {
+    width: 100px;
+}
+
+.boxillustrator2 img {
+    width: 100px;
+}
+
+.threepartbox {
+    display: flex;
+    padding: 20px;
+
+}
+
+.section2 {
+    display: flex;
+    padding: 80px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left;
+}
+
+.codingStyle {
+    padding-left: 40px;
+}
+
+.codingStyle img {
+    width: 400px;
+}
+
+.developStyle {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.section3 {
+    display: flex;
+    padding: 80px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: bottom 20px right 20px;
+
+}
+
+.spanFooter {
+    color: rgb(25, 201, 107);
+}
+
+.footerStyle {
+
+    text-align: center;
+    background-color: rgb(149, 132, 161);
+    height: 20px;
+    padding: 40px;
+
+
+
+}
+
+.footSize {
+    font-size: 30px;
+    color: white;
+}
+
+#footsizee {
+    font-size: 20px;
+    color: white;
+}
+
+body {
+    margin: 0%;
+}
+
+.section5 {
+    text-align: center;
+    margin-bottom: 200px;
+}
